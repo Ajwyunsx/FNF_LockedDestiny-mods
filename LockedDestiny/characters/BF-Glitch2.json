@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-338,
+				90
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				62
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-337,
+				145
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-440,
+				59
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "raices/BF-Glitch2",
+	"position": [
+		-50,
+		-10
+	],
+	"healthicon": "bf-pixel-alt",
+	"flip_x": true,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-199,
+		-50
+	],
+	"sing_duration": 4.3,
+	"scale": 4
+}

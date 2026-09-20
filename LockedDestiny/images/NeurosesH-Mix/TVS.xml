@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TVS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV20000" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20001" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20002" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20003" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20004" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20005" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20006" x="0" y="367" width="587" height="367"/>
+	<SubTexture name="TV20007" x="0" y="367" width="587" height="367"/>
+	<SubTexture name="TV20008" x="587" y="367" width="587" height="367"/>
+	<SubTexture name="TV20009" x="587" y="367" width="587" height="367"/>
+	<SubTexture name="TV20010" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20011" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20012" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20013" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20014" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20015" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20016" x="0" y="367" width="587" height="367"/>
+	<SubTexture name="TV20017" x="0" y="367" width="587" height="367"/>
+	<SubTexture name="TV20018" x="587" y="367" width="587" height="367"/>
+	<SubTexture name="TV20019" x="587" y="367" width="587" height="367"/>
+	<SubTexture name="TV20020" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20021" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20022" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20023" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20024" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20025" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20026" x="0" y="367" width="587" height="367"/>
+	<SubTexture name="TV20027" x="0" y="367" width="587" height="367"/>
+	<SubTexture name="TV20028" x="587" y="367" width="587" height="367"/>
+	<SubTexture name="TV20029" x="587" y="367" width="587" height="367"/>
+	<SubTexture name="TV20030" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20031" x="0" y="0" width="587" height="367"/>
+	<SubTexture name="TV20032" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20033" x="587" y="0" width="587" height="367"/>
+	<SubTexture name="TV20034" x="1174" y="0" width="587" height="367"/>
+	<SubTexture name="TV20035" x="1174" y="0" width="587" height="367"/>
+</TextureAtlas>

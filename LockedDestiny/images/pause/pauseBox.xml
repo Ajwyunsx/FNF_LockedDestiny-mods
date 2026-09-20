@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pauseBox.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pexit0000" x="0" y="0" width="362" height="361"/>
+	<SubTexture name="Prestart0000" x="362" y="0" width="362" height="361"/>
+	<SubTexture name="Presume0000" x="724" y="0" width="362" height="361"/>
+</TextureAtlas>

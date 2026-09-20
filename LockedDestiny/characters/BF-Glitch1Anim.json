@@ -1,0 +1,49 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				177,
+				90
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AnimBF",
+			"indices": [
+				0,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				177,
+				90
+			],
+			"anim": "anim",
+			"fps": 24,
+			"name": "AnimBF",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "raices/BFGlitchAnim",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "bf-pixel-alt",
+	"flip_x": true,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		20
+	],
+	"camera_position": [
+		364,
+		-26
+	],
+	"sing_duration": 4.3,
+	"scale": 6
+}

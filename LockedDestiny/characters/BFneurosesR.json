@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleBF",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-8
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LeftBF"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DownBF"
+		},
+		{
+			"offsets": [
+				11,
+				2
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UPBF"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RightBF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/BF",
+	"position": [
+		-410,
+		100
+	],
+	"healthicon": "WaosBF",
+	"flip_x": true,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-720,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.96
+}

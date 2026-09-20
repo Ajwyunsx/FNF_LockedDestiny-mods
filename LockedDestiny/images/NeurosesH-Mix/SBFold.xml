@@ -1,0 +1,1419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SBFold.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Soul BF Idle0000" x="0" y="0" width="585" height="609" frameX="-1" frameY="-9" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0001" x="0" y="0" width="585" height="609" frameX="-1" frameY="-9" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0002" x="585" y="0" width="585" height="609" frameX="-1" frameY="-17" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0003" x="585" y="0" width="585" height="609" frameX="-1" frameY="-17" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0004" x="1170" y="0" width="585" height="610" frameX="-3" frameY="-22" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0005" x="1170" y="0" width="585" height="610" frameX="-3" frameY="-22" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0006" x="1755" y="0" width="580" height="611" frameX="-6" frameY="-16" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0007" x="1755" y="0" width="580" height="611" frameX="-6" frameY="-16" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0008" x="2335" y="0" width="578" height="613" frameX="-5" frameY="-3" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0009" x="2335" y="0" width="578" height="613" frameX="-5" frameY="-3" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0010" x="2913" y="0" width="584" height="612" frameX="-1" frameY="0" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0011" x="2913" y="0" width="584" height="612" frameX="-1" frameY="0" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0012" x="3497" y="0" width="585" height="612" frameX="0" frameY="0" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Idle0013" x="3497" y="0" width="585" height="612" frameX="0" frameY="0" frameWidth="588" frameHeight="632"/>
+	<SubTexture name="Soul BF Left0000" x="0" y="613" width="548" height="603" frameX="-8" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0001" x="0" y="613" width="548" height="603" frameX="-8" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0002" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0003" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0004" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0005" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0006" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0007" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0008" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0009" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0010" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0011" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0012" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0013" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0014" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0015" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0016" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0017" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0018" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0019" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0020" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0021" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0022" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0023" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0024" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0025" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0026" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0027" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0028" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0029" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0030" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0031" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0032" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0033" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0034" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0035" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0036" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0037" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0038" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0039" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0040" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0041" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0042" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0043" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0044" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0045" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0046" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0047" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0048" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0049" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0050" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0051" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0052" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0053" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0054" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0055" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0056" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0057" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0058" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0059" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0060" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0061" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0062" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0063" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0064" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0065" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0066" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0067" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0068" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0069" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0070" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0071" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0072" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0073" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0074" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0075" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0076" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0077" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0078" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0079" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0080" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0081" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0082" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0083" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0084" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0085" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0086" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0087" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0088" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0089" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0090" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0091" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0092" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0093" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0094" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0095" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0096" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0097" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0098" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0099" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0100" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0101" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0102" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0103" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0104" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0105" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0106" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0107" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0108" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0109" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0110" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0111" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0112" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0113" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0114" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0115" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0116" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0117" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0118" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0119" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0120" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0121" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0122" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0123" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0124" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0125" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0126" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0127" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0128" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0129" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0130" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0131" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0132" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0133" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0134" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0135" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0136" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0137" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0138" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0139" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0140" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0141" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0142" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0143" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0144" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0145" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0146" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0147" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0148" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0149" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0150" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0151" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0152" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0153" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0154" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0155" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0156" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0157" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0158" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0159" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0160" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0161" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0162" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0163" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0164" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0165" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0166" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0167" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0168" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0169" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0170" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0171" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0172" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0173" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0174" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0175" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0176" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0177" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0178" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0179" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0180" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0181" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0182" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0183" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0184" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0185" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0186" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0187" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0188" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0189" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0190" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0191" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0192" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0193" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0194" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0195" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0196" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0197" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0198" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0199" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0200" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0201" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0202" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0203" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0204" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0205" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0206" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0207" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0208" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0209" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0210" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0211" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0212" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0213" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0214" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0215" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0216" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0217" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0218" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0219" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0220" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0221" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0222" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0223" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0224" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0225" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0226" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0227" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0228" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0229" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0230" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0231" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0232" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0233" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0234" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0235" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0236" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0237" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0238" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0239" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0240" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0241" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0242" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0243" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0244" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0245" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0246" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0247" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0248" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0249" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0250" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0251" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0252" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0253" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0254" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0255" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0256" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0257" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0258" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0259" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0260" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0261" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0262" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0263" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0264" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0265" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0266" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0267" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0268" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0269" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0270" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0271" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0272" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0273" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0274" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0275" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0276" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0277" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0278" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0279" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0280" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0281" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0282" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0283" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0284" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0285" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0286" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0287" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0288" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0289" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0290" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0291" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0292" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0293" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0294" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0295" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0296" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0297" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0298" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0299" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0300" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0301" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0302" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0303" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0304" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0305" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0306" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0307" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0308" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0309" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0310" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0311" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0312" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0313" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0314" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0315" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0316" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0317" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0318" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0319" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0320" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0321" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0322" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0323" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0324" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0325" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0326" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0327" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0328" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0329" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0330" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0331" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0332" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0333" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0334" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0335" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0336" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0337" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0338" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0339" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0340" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0341" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0342" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0343" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0344" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0345" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0346" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0347" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0348" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Left0349" x="548" y="613" width="549" height="599" frameX="0" frameY="0" frameWidth="556" frameHeight="603"/>
+	<SubTexture name="Soul BF Right0000" x="1097" y="613" width="664" height="596" frameX="0" frameY="0" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0001" x="1097" y="613" width="664" height="596" frameX="0" frameY="0" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0002" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0003" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0004" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0005" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0006" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0007" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0008" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0009" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0010" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0011" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0012" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0013" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0014" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0015" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0016" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0017" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0018" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0019" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0020" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0021" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0022" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0023" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0024" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0025" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0026" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0027" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0028" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0029" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0030" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0031" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0032" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0033" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0034" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0035" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0036" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0037" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0038" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0039" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0040" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0041" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0042" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0043" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0044" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0045" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0046" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0047" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0048" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0049" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0050" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0051" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0052" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0053" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0054" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0055" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0056" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0057" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0058" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0059" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0060" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0061" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0062" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0063" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0064" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0065" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0066" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0067" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0068" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0069" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0070" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0071" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0072" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0073" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0074" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0075" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0076" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0077" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0078" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0079" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0080" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0081" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0082" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0083" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0084" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0085" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0086" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0087" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0088" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0089" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0090" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0091" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0092" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0093" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0094" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0095" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0096" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0097" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0098" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0099" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0100" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0101" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0102" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0103" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0104" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0105" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0106" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0107" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0108" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0109" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0110" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0111" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0112" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0113" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0114" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0115" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0116" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0117" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0118" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0119" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0120" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0121" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0122" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0123" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0124" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0125" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0126" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0127" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0128" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0129" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0130" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0131" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0132" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0133" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0134" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0135" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0136" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0137" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0138" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0139" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0140" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0141" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0142" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0143" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0144" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0145" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0146" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0147" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0148" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0149" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0150" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0151" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0152" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0153" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0154" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0155" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0156" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0157" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0158" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0159" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0160" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0161" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0162" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0163" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0164" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0165" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0166" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0167" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0168" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0169" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0170" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0171" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0172" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0173" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0174" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0175" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0176" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0177" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0178" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0179" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0180" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0181" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0182" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0183" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0184" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0185" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0186" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0187" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0188" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0189" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0190" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0191" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0192" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0193" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0194" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0195" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0196" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0197" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0198" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0199" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0200" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0201" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0202" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0203" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0204" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0205" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0206" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0207" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0208" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0209" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0210" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0211" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0212" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0213" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0214" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0215" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0216" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0217" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0218" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0219" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0220" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0221" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0222" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0223" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0224" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0225" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0226" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0227" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0228" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0229" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0230" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0231" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0232" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0233" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0234" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0235" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0236" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0237" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0238" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0239" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0240" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0241" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0242" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0243" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0244" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0245" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0246" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0247" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0248" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0249" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0250" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0251" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0252" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0253" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0254" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0255" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0256" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0257" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0258" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0259" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0260" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0261" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0262" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0263" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0264" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0265" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0266" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0267" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0268" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0269" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0270" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0271" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0272" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0273" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0274" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0275" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0276" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0277" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0278" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0279" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0280" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0281" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0282" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0283" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0284" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0285" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0286" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0287" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0288" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0289" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0290" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0291" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0292" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0293" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0294" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0295" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0296" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0297" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0298" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0299" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0300" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0301" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0302" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0303" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0304" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0305" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0306" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0307" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0308" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0309" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0310" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0311" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0312" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0313" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0314" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0315" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0316" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0317" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0318" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0319" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0320" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0321" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0322" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0323" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0324" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0325" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0326" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0327" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0328" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0329" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0330" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0331" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0332" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0333" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0334" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0335" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0336" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0337" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0338" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0339" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0340" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0341" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0342" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0343" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0344" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0345" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0346" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0347" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0348" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Right0349" x="1761" y="613" width="659" height="594" frameX="-7" frameY="-3" frameWidth="666" frameHeight="597"/>
+	<SubTexture name="Soul BF Up0000" x="2420" y="613" width="512" height="653" frameX="-2" frameY="-1" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0001" x="2420" y="613" width="512" height="653" frameX="-2" frameY="-1" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0002" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0003" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0004" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0005" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0006" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0007" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0008" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0009" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0010" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0011" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0012" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0013" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0014" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0015" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0016" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0017" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0018" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0019" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0020" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0021" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0022" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0023" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0024" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0025" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0026" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0027" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0028" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0029" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0030" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0031" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0032" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0033" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0034" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0035" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0036" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0037" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0038" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0039" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0040" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0041" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0042" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0043" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0044" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0045" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0046" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0047" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0048" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0049" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0050" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0051" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0052" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0053" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0054" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0055" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0056" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0057" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0058" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0059" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0060" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0061" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0062" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0063" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0064" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0065" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0066" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0067" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0068" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0069" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0070" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0071" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0072" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0073" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0074" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0075" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0076" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0077" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0078" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0079" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0080" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0081" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0082" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0083" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0084" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0085" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0086" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0087" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0088" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0089" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0090" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0091" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0092" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0093" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0094" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0095" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0096" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0097" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0098" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0099" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0100" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0101" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0102" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0103" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0104" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0105" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0106" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0107" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0108" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0109" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0110" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0111" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0112" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0113" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0114" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0115" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0116" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0117" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0118" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0119" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0120" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0121" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0122" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0123" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0124" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0125" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0126" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0127" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0128" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0129" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0130" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0131" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0132" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0133" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0134" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0135" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0136" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0137" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0138" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0139" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0140" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0141" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0142" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0143" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0144" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0145" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0146" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0147" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0148" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0149" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0150" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0151" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0152" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0153" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0154" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0155" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0156" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0157" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0158" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0159" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0160" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0161" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0162" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0163" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0164" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0165" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0166" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0167" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0168" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0169" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0170" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0171" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0172" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0173" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0174" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0175" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0176" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0177" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0178" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0179" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0180" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0181" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0182" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0183" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0184" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0185" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0186" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0187" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0188" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0189" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0190" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0191" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0192" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0193" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0194" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0195" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0196" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0197" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0198" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0199" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0200" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0201" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0202" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0203" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0204" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0205" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0206" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0207" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0208" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0209" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0210" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0211" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0212" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0213" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0214" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0215" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0216" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0217" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0218" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0219" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0220" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0221" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0222" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0223" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0224" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0225" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0226" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0227" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0228" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0229" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0230" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0231" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0232" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0233" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0234" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0235" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0236" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0237" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0238" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0239" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0240" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0241" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0242" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0243" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0244" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0245" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0246" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0247" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0248" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0249" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0250" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0251" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0252" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0253" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0254" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0255" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0256" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0257" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0258" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0259" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0260" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0261" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0262" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0263" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0264" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0265" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0266" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0267" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0268" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0269" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0270" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0271" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0272" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0273" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0274" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0275" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0276" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0277" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0278" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0279" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0280" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0281" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0282" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0283" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0284" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0285" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0286" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0287" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0288" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0289" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0290" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0291" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0292" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0293" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0294" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0295" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0296" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0297" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0298" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0299" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0300" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0301" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0302" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0303" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0304" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0305" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0306" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0307" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0308" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0309" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0310" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0311" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0312" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0313" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0314" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0315" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0316" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0317" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0318" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0319" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0320" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0321" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0322" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0323" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0324" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0325" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0326" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0327" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0328" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0329" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0330" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0331" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0332" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0333" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0334" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0335" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0336" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0337" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0338" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0339" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0340" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0341" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0342" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0343" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0344" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0345" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0346" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0347" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0348" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BF Up0349" x="2932" y="613" width="509" height="653" frameX="0" frameY="0" frameWidth="514" frameHeight="654"/>
+	<SubTexture name="Soul BFDown0000" x="0" y="1266" width="657" height="628" frameX="-1" frameY="0" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0001" x="0" y="1266" width="657" height="628" frameX="-1" frameY="0" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0002" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0003" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0004" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0005" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0006" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0007" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0008" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0009" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0010" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0011" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0012" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0013" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0014" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0015" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0016" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0017" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0018" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0019" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0020" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0021" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0022" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0023" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0024" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0025" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0026" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0027" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0028" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0029" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0030" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0031" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0032" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0033" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0034" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0035" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0036" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0037" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0038" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0039" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0040" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0041" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0042" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0043" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0044" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0045" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0046" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0047" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0048" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0049" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0050" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0051" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0052" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0053" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0054" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0055" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0056" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0057" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0058" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0059" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0060" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0061" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0062" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0063" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0064" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0065" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0066" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0067" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0068" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0069" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0070" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0071" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0072" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0073" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0074" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0075" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0076" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0077" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0078" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0079" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0080" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0081" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0082" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0083" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0084" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0085" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0086" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0087" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0088" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0089" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0090" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0091" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0092" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0093" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0094" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0095" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0096" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0097" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0098" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0099" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0100" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0101" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0102" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0103" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0104" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0105" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0106" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0107" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0108" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0109" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0110" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0111" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0112" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0113" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0114" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0115" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0116" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0117" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0118" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0119" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0120" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0121" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0122" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0123" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0124" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0125" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0126" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0127" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0128" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0129" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0130" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0131" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0132" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0133" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0134" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0135" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0136" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0137" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0138" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0139" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0140" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0141" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0142" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0143" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0144" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0145" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0146" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0147" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0148" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0149" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0150" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0151" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0152" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0153" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0154" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0155" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0156" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0157" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0158" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0159" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0160" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0161" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0162" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0163" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0164" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0165" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0166" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0167" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0168" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0169" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0170" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0171" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0172" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0173" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0174" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0175" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0176" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0177" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0178" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0179" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0180" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0181" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0182" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0183" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0184" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0185" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0186" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0187" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0188" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0189" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0190" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0191" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0192" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0193" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0194" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0195" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0196" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0197" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0198" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0199" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0200" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0201" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0202" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0203" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0204" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0205" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0206" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0207" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0208" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0209" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0210" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0211" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0212" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0213" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0214" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0215" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0216" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0217" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0218" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0219" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0220" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0221" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0222" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0223" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0224" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0225" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0226" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0227" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0228" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0229" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0230" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0231" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0232" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0233" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0234" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0235" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0236" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0237" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0238" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0239" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0240" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0241" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0242" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0243" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0244" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0245" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0246" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0247" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0248" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0249" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0250" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0251" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0252" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0253" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0254" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0255" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0256" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0257" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0258" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0259" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0260" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0261" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0262" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0263" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0264" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0265" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0266" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0267" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0268" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0269" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0270" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0271" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0272" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0273" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0274" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0275" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0276" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0277" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0278" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0279" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0280" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0281" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0282" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0283" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0284" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0285" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0286" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0287" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0288" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0289" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0290" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0291" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0292" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0293" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0294" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0295" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0296" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0297" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0298" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0299" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0300" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0301" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0302" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0303" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0304" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0305" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0306" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0307" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0308" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0309" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0310" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0311" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0312" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0313" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0314" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0315" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0316" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0317" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0318" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0319" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0320" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0321" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0322" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0323" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0324" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0325" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0326" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0327" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0328" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0329" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0330" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0331" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0332" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0333" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0334" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0335" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0336" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0337" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0338" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0339" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0340" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0341" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0342" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0343" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0344" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0345" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0346" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0347" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0348" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+	<SubTexture name="Soul BFDown0349" x="657" y="1266" width="653" height="626" frameX="0" frameY="-1" frameWidth="658" frameHeight="628"/>
+</TextureAtlas>

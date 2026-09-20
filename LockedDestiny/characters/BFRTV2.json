@@ -1,0 +1,127 @@
+{
+	"skew_y": 1,
+	"scale_y": 0.59,
+	"skew_x": 3,
+	"scale_x": 0.66,
+	"animations": [
+		{
+			"offsets": [
+				-132,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tran1",
+			"indices": [],
+			"name": "tran10"
+		},
+		{
+			"offsets": [
+				-121,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tran2",
+			"indices": [],
+			"name": "tran20"
+		},
+		{
+			"offsets": [
+				-134,
+				51
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Idle-alt0"
+		},
+		{
+			"offsets": [
+				-134,
+				144
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "pose2",
+			"indices": [],
+			"name": "pose20"
+		},
+		{
+			"offsets": [
+				-134,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "pose1",
+			"indices": [],
+			"name": "pose10"
+		},
+		{
+			"offsets": [
+				-144,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle-bf",
+			"indices": [],
+			"name": "tranlook20"
+		},
+		{
+			"offsets": [
+				-144,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle-dad",
+			"indices": [],
+			"name": "tranlook0"
+		},
+		{
+			"offsets": [
+				-135,
+				-1
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle-bf-loop",
+			"loop": true,
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-135,
+				-1
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle-dad-loop",
+			"loop": true,
+			"name": "Idle20"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/BFTV2",
+	"position": [
+		-410,
+		100
+	],
+	"healthicon": "icon_bf_SS",
+	"flip_x": false,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-720,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.66
+}

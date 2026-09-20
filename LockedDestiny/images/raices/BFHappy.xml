@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFHappy.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Happy0000" x="0" y="0" width="1455" height="1367"/>
+	<SubTexture name="Happy0001" x="0" y="0" width="1455" height="1367"/>
+	<SubTexture name="Happy0002" x="0" y="0" width="1455" height="1367"/>
+	<SubTexture name="Happy0003" x="1455" y="0" width="1455" height="1366" frameX="0" frameY="-1" frameWidth="1455" frameHeight="1367"/>
+	<SubTexture name="Happy0004" x="1455" y="0" width="1455" height="1366" frameX="0" frameY="-1" frameWidth="1455" frameHeight="1367"/>
+	<SubTexture name="Happy0005" x="1455" y="0" width="1455" height="1366" frameX="0" frameY="-1" frameWidth="1455" frameHeight="1367"/>
+	<SubTexture name="Happy0006" x="0" y="1367" width="1455" height="1365" frameX="0" frameY="-2" frameWidth="1455" frameHeight="1367"/>
+	<SubTexture name="Happy0007" x="0" y="1367" width="1455" height="1365" frameX="0" frameY="-2" frameWidth="1455" frameHeight="1367"/>
+	<SubTexture name="Happy0008" x="0" y="1367" width="1455" height="1365" frameX="0" frameY="-2" frameWidth="1455" frameHeight="1367"/>
+</TextureAtlas>

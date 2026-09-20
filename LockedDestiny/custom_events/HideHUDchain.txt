@@ -1,0 +1,2 @@
+Value1: que tan visible esta, 1 todo visible, 0 todo invisible, 0.5 transparente
+Value2: qué tan rápido ocurre, 0 instantaneo, 1 suave, 0.5 medio segundo

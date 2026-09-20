@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Diffi.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dif0000" x="0" y="0" width="212" height="100"/>
+	<SubTexture name="Dif20000" x="0" y="100" width="212" height="100"/>
+</TextureAtlas>

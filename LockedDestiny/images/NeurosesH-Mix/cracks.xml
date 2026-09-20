@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cracks.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cracks10000" x="0" y="0" width="637" height="1291" frameX="-5" frameY="-9" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10001" x="0" y="0" width="637" height="1291" frameX="-5" frameY="-9" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10002" x="637" y="0" width="846" height="1293" frameX="-4" frameY="-8" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10003" x="637" y="0" width="846" height="1293" frameX="-4" frameY="-8" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10004" x="1483" y="0" width="927" height="1299" frameX="-9" frameY="-10" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10005" x="1483" y="0" width="927" height="1299" frameX="-9" frameY="-10" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10006" x="2410" y="0" width="969" height="1303" frameX="0" frameY="0" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks10007" x="2410" y="0" width="969" height="1303" frameX="0" frameY="0" frameWidth="969" frameHeight="1309"/>
+	<SubTexture name="cracks20000" x="0" y="1303" width="882" height="1241" frameX="-186" frameY="-8" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20001" x="0" y="1303" width="882" height="1241" frameX="-186" frameY="-8" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20002" x="882" y="1303" width="922" height="1259" frameX="-152" frameY="-4" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20003" x="882" y="1303" width="922" height="1259" frameX="-152" frameY="-4" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20004" x="1804" y="1303" width="1041" height="1258" frameX="-43" frameY="-3" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20005" x="1804" y="1303" width="1041" height="1258" frameX="-43" frameY="-3" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20006" x="0" y="2562" width="1079" height="1263" frameX="0" frameY="0" frameWidth="1084" frameHeight="1263"/>
+	<SubTexture name="cracks20007" x="0" y="2562" width="1079" height="1263" frameX="0" frameY="0" frameWidth="1084" frameHeight="1263"/>
+</TextureAtlas>

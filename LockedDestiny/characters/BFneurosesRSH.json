@@ -1,0 +1,83 @@
+{
+	"skew_y": 1,
+	"scale_y": 0.66,
+	"skew_x": 50,
+	"scale_x": 0.96,
+	"animations": [
+		{
+			"offsets": [
+				-786,
+				-513
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-688,
+				-512
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-776,
+				-513
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-790,
+				-514
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-725,
+				-512
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/BFshadow",
+	"position": [
+		-410,
+		100
+	],
+	"healthicon": "WaosBF",
+	"flip_x": true,
+	"flip_y": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-720,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.96
+}

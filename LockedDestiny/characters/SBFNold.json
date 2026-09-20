@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				11,
+				-3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Soul BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-38
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "Soul BF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				38
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "Soul BF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "Soul BF Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "Soul BFDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/SBFold",
+	"position": [
+		-210,
+		-150
+	],
+	"healthicon": "icon-bf-soul",
+	"flip_x": false,
+	"flip_y": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		199,
+		-11
+	],
+	"sing_duration": 3.9,
+	"scale": 1.11
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FireBlack.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Loop0000" x="0" y="0" width="38" height="32"/>
+	<SubTexture name="Loop0001" x="0" y="0" width="38" height="32"/>
+	<SubTexture name="Loop0002" x="38" y="0" width="35" height="31" frameX="0" frameY="-1" frameWidth="38" frameHeight="32"/>
+	<SubTexture name="Loop0003" x="38" y="0" width="35" height="31" frameX="0" frameY="-1" frameWidth="38" frameHeight="32"/>
+	<SubTexture name="Loop0004" x="38" y="0" width="35" height="31" frameX="0" frameY="-1" frameWidth="38" frameHeight="32"/>
+	<SubTexture name="Loop0005" x="0" y="32" width="32" height="30" frameX="0" frameY="-2" frameWidth="38" frameHeight="32"/>
+	<SubTexture name="Loop0006" x="0" y="32" width="32" height="30" frameX="0" frameY="-2" frameWidth="38" frameHeight="32"/>
+	<SubTexture name="Loop0007" x="0" y="32" width="32" height="30" frameX="0" frameY="-2" frameWidth="38" frameHeight="32"/>
+</TextureAtlas>

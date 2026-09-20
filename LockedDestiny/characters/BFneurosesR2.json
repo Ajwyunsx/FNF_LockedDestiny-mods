@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleBF"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "LeftBF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "DownBF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				0
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "UPBF",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "RightBF",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "nerBF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/BF2",
+	"position": [
+		-410,
+		100
+	],
+	"healthicon": "WaosBF",
+	"flip_x": true,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-720,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.96
+}

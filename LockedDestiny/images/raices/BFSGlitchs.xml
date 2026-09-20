@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFSGlitchs.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFSglitchs0000" x="0" y="0" width="67" height="68"/>
+	<SubTexture name="BFSglitchs0001" x="0" y="0" width="67" height="68"/>
+	<SubTexture name="BFSglitchs0002" x="67" y="0" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0003" x="134" y="0" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0004" x="0" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0005" x="0" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0006" x="67" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0007" x="67" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0008" x="134" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0009" x="134" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0010" x="134" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0011" x="134" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0012" x="134" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+	<SubTexture name="BFSglitchs0013" x="134" y="68" width="67" height="67" frameX="0" frameY="0" frameWidth="67" frameHeight="68"/>
+</TextureAtlas>

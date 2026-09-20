@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scanlines.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scan0000" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-39" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0001" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-39" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0002" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-38" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0003" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-37" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0004" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-36" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0005" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-35" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0006" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-35" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0007" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-34" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0008" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-33" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0009" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-32" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0010" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-31" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0011" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-30" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0012" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-30" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0013" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-29" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0014" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-28" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0015" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-27" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0016" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-26" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0017" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-26" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0018" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-25" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0019" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-24" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0020" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-23" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0021" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-22" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0022" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-21" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0023" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-21" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0024" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-20" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0025" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-19" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0026" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-18" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0027" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-17" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0028" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-16" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0029" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-16" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0030" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-15" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0031" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-14" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0032" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-13" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0033" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-12" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0034" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-12" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0035" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-11" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0036" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-10" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0037" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-9" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0038" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-8" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0039" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-7" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0040" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-7" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0041" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-6" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0042" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-5" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0043" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-4" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0044" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-3" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0045" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-2" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0046" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-2" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0047" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-1" frameWidth="1920" frameHeight="1119"/>
+	<SubTexture name="scan0048" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1119"/>
+</TextureAtlas>

@@ -1,0 +1,1 @@
+Make sure that both the opponent and player healthbar portion have the exact same dimentions and look somewhat similar, otherwise itl look weird

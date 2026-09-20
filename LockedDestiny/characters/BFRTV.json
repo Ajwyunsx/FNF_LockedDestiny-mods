@@ -1,0 +1,94 @@
+{
+	"skew_y": 1,
+	"scale_y": 0.59,
+	"skew_x": 3,
+	"scale_x": 0.66,
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-131,
+				69
+			],
+			"anim": "tran1",
+			"fps": 24,
+			"name": "tran10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-121,
+				49
+			],
+			"anim": "tran2",
+			"fps": 24,
+			"name": "tran20",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-135,
+				-1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-134,
+				50
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Idle-alt0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-134,
+				144
+			],
+			"anim": "pose2",
+			"fps": 24,
+			"name": "pose20",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-133,
+				-51
+			],
+			"anim": "pose1",
+			"fps": 24,
+			"name": "pose10",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/BFTV",
+	"position": [
+		-410,
+		100
+	],
+	"healthicon": "icon_bf_SS",
+	"flip_x": false,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-720,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 0.66
+}

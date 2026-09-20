@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TV.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV0000" x="0" y="0" width="588" height="368"/>
+	<SubTexture name="TV0001" x="588" y="0" width="588" height="368"/>
+	<SubTexture name="TV0002" x="1176" y="0" width="588" height="368"/>
+	<SubTexture name="TV0003" x="1764" y="0" width="588" height="368"/>
+	<SubTexture name="TV0004" x="2352" y="0" width="588" height="368"/>
+	<SubTexture name="TV0005" x="2940" y="0" width="588" height="368"/>
+	<SubTexture name="TV0006" x="0" y="368" width="588" height="368"/>
+	<SubTexture name="TV0007" x="588" y="368" width="588" height="368"/>
+	<SubTexture name="TV0008" x="1176" y="368" width="588" height="368"/>
+	<SubTexture name="TV0009" x="1764" y="368" width="588" height="368"/>
+	<SubTexture name="TV0010" x="2352" y="368" width="588" height="368"/>
+	<SubTexture name="TV0011" x="2940" y="368" width="588" height="368"/>
+	<SubTexture name="TV0012" x="0" y="736" width="588" height="368"/>
+	<SubTexture name="TV0013" x="588" y="736" width="588" height="368"/>
+	<SubTexture name="TV0014" x="1176" y="736" width="588" height="368"/>
+	<SubTexture name="TV0015" x="1764" y="736" width="588" height="368"/>
+	<SubTexture name="TV0016" x="2352" y="736" width="588" height="368"/>
+	<SubTexture name="TV0017" x="2940" y="736" width="588" height="368"/>
+	<SubTexture name="TV0018" x="0" y="1104" width="588" height="368"/>
+	<SubTexture name="TV0019" x="588" y="1104" width="588" height="368"/>
+	<SubTexture name="TV0020" x="1176" y="1104" width="588" height="368"/>
+	<SubTexture name="TV0021" x="1764" y="1104" width="588" height="368"/>
+	<SubTexture name="TV0022" x="2352" y="1104" width="588" height="368"/>
+	<SubTexture name="TV0023" x="2940" y="1104" width="588" height="368"/>
+	<SubTexture name="TV0024" x="0" y="1472" width="588" height="368"/>
+	<SubTexture name="TV0025" x="588" y="1472" width="588" height="368"/>
+	<SubTexture name="TV0026" x="1176" y="1472" width="588" height="368"/>
+	<SubTexture name="TV0027" x="1764" y="1472" width="588" height="368"/>
+	<SubTexture name="TV0028" x="2352" y="1472" width="588" height="368"/>
+	<SubTexture name="TV0029" x="2940" y="1472" width="588" height="368"/>
+	<SubTexture name="TV0030" x="0" y="1840" width="588" height="368"/>
+	<SubTexture name="TV0031" x="588" y="1840" width="588" height="368"/>
+	<SubTexture name="TV0032" x="1176" y="1840" width="588" height="368"/>
+	<SubTexture name="TV0033" x="1764" y="1840" width="588" height="368"/>
+	<SubTexture name="TV0034" x="2352" y="1840" width="588" height="368"/>
+	<SubTexture name="TV0035" x="2940" y="1840" width="588" height="368"/>
+</TextureAtlas>

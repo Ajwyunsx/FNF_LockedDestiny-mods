@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TextsDeleted.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="deleted10000" x="0" y="0" width="332" height="27"/>
+	<SubTexture name="deleted10001" x="0" y="27" width="332" height="27"/>
+	<SubTexture name="deleted10002" x="0" y="54" width="332" height="27"/>
+	<SubTexture name="deleted10003" x="0" y="81" width="332" height="27"/>
+	<SubTexture name="deleted20000" x="0" y="108" width="331" height="27"/>
+	<SubTexture name="deleted20001" x="0" y="135" width="331" height="27"/>
+	<SubTexture name="deleted20002" x="0" y="162" width="331" height="27"/>
+	<SubTexture name="deleted20003" x="0" y="189" width="331" height="27"/>
+	<SubTexture name="deleted30000" x="0" y="216" width="331" height="27"/>
+	<SubTexture name="deleted30001" x="0" y="243" width="331" height="27"/>
+	<SubTexture name="deleted30002" x="0" y="270" width="331" height="27"/>
+	<SubTexture name="deleted30003" x="0" y="297" width="331" height="27"/>
+	<SubTexture name="deleted40000" x="0" y="324" width="331" height="27"/>
+	<SubTexture name="deleted40001" x="0" y="351" width="331" height="27"/>
+	<SubTexture name="deleted40002" x="0" y="378" width="331" height="27"/>
+	<SubTexture name="deleted40003" x="0" y="405" width="331" height="27"/>
+</TextureAtlas>

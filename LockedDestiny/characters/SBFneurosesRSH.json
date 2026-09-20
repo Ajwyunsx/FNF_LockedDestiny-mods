@@ -1,0 +1,82 @@
+{
+	"scale_y": 0.7,
+	"skew_x": -50,
+	"scale_x": 1,
+	"animations": [
+		{
+			"offsets": [
+				133,
+				-461
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				254,
+				-489
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				143,
+				-453
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				119,
+				-500
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				119,
+				-462
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/SBFshadow",
+	"position": [
+		-100,
+		-70
+	],
+	"healthicon": "WaosSoul",
+	"flip_x": false,
+	"flip_y": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		210,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

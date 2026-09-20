@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weebSchoolGlitch.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="weebSchoolglitch0000" x="0" y="0" width="477" height="185" frameX="0" frameY="-1" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0001" x="0" y="0" width="477" height="185" frameX="0" frameY="-1" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0002" x="0" y="0" width="477" height="185" frameX="0" frameY="-1" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0003" x="477" y="0" width="477" height="186"/>
+	<SubTexture name="weebSchoolglitch0004" x="477" y="0" width="477" height="186"/>
+	<SubTexture name="weebSchoolglitch0005" x="477" y="0" width="477" height="186"/>
+	<SubTexture name="weebSchoolglitch0006" x="477" y="0" width="477" height="186"/>
+	<SubTexture name="weebSchoolglitch0007" x="0" y="186" width="477" height="180" frameX="0" frameY="-6" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0008" x="0" y="186" width="477" height="180" frameX="0" frameY="-6" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0009" x="0" y="186" width="477" height="180" frameX="0" frameY="-6" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0010" x="477" y="186" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0011" x="477" y="186" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0012" x="477" y="186" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0013" x="477" y="186" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0014" x="0" y="366" width="477" height="177" frameX="0" frameY="-9" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0015" x="0" y="366" width="477" height="177" frameX="0" frameY="-9" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0016" x="0" y="366" width="477" height="177" frameX="0" frameY="-9" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0017" x="477" y="366" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0018" x="477" y="366" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0019" x="477" y="366" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+	<SubTexture name="weebSchoolglitch0020" x="477" y="366" width="477" height="179" frameX="0" frameY="-7" frameWidth="477" frameHeight="186"/>
+</TextureAtlas>

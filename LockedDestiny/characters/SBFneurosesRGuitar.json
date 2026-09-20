@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-106
+			],
+			"anim": "Down",
+			"fps": 24,
+			"name": "Gdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-100
+			],
+			"anim": "Right",
+			"fps": 24,
+			"name": "Gright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-59
+			],
+			"anim": "Left",
+			"fps": 24,
+			"name": "Gleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-53
+			],
+			"anim": "UP",
+			"fps": 24,
+			"name": "Gup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-52
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "transicion",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "NeurosesH-Mix/SBFGuitar",
+	"position": [
+		50,
+		180
+	],
+	"healthicon": "WaosSoul",
+	"flip_x": false,
+	"flip_y": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		210,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
